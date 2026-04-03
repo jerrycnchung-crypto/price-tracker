@@ -77,4 +77,4 @@ MAX_PAGES = 3          # 抓幾頁（每頁約 20 筆）
 Jerry Chung — 歡迎合作接案，資料爬蟲、自動化、報表分析皆可承接。  
 Open to freelance projects: web scraping, automation, data analysis.
 
-📧 聯絡請至 GitHub Issues 或私訊
+📧 聯絡請至 GitHub Issues 或私訊或 email:jerrycnchung@gmail.com
